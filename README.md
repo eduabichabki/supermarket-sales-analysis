@@ -34,3 +34,8 @@ This project analyzes real sales data from a supermarket using **Python**, **Pan
 
 Link: Annex2.csv: https://drive.google.com/file/d/1Sbbqdcs-uEy3zU-GyKC2FgVSTnF5nPrG/view?usp=sharing
 
+## 👤 Author
+
+**Eduardo Abichabki**  
+Data Analyst | Python | Power BI | SQL  
+[LinkedIn](https://www.linkedin.com/in/eduardoabichabki)
