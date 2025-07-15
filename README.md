@@ -32,3 +32,5 @@ This project analyzes real sales data from a supermarket using **Python**, **Pan
 
 > *All insights were based on exploratory data analysis and visualizations.*
 
+Link: Annex2.csv: https://drive.google.com/file/d/1Sbbqdcs-uEy3zU-GyKC2FgVSTnF5nPrG/view?usp=sharing
+
